@@ -22,10 +22,7 @@ A physics-based simulation of a galaxy with interactive controls and adjustable 
   - Add/remove bodies during simulation
   - Adjust density and return to settings
 
-- Displays:
-  - Angular momentum
-  - Total kinetic energy
-  - Total potential energy
+
 
 ## Purpose
 
